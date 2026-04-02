@@ -63,29 +63,18 @@ Recall: 97.7%
 - Alternate route  
 
 ---
-
-## 📸 Screenshots
-
-### 🔹 Flood Risk Prediction UI
-![Prediction UI](images/prediction.png)
-![Prediction UI 2](images/prediction1.png)
-
-### 🔹 Route Map Visualization
-![Map UI](images/map.png)
-![Map UI 2](images/map1.png)
-![Map UI 3](images/map2.png)
----
-
-
 ## 📸 Screenshots
 
 ### 🔹 Flood Risk Prediction UI
 ![Prediction UI](Images/Prediction.png)
+
 ![Prediction UI 2](Images/Prediction1.png)
 
 ### 🔹 Route Map Visualization
 ![Map UI](Images/Map.png)
+
 ![Map UI 2](Images/Map1.png)
+
 ![Map UI 3](Images/Map2.png)
 
 ## 📂 Project Structure
