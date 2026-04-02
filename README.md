@@ -1,4 +1,4 @@
-# 🌊 FloodSight - AI-Based Flood Risk Prediction using Real-Time Weather Data & Route Analysis
+# 🌊 FloodSight: Real-Time Flood Risk Classifier & Route Analysis
 
 ## 📌 Overview
 FloodSight is an AI-powered web application that predicts flood risk using real-time weather data and provides intelligent route analysis with interactive mapping.
