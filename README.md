@@ -76,6 +76,18 @@ Recall: 97.7%
 ![Map UI 3](images/map2.png)
 ---
 
+
+## 📸 Screenshots
+
+### 🔹 Flood Risk Prediction UI
+![Prediction UI](Images/Prediction.png)
+![Prediction UI 2](Images/Prediction1.png)
+
+### 🔹 Route Map Visualization
+![Map UI](Images/Map.png)
+![Map UI 2](Images/Map1.png)
+![Map UI 3](Images/Map2.png)
+
 ## 📂 Project Structure
 FloodSight/
 ├── app.py  
