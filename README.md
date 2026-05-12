@@ -78,7 +78,8 @@ Recall: 97.7%
 ![Map UI 3](Images/Map2.png)
 
 ## 📂 Project Structure
-FloodSight/
+FloodSight
+
 ├── app.py  
 ├── model.pkl  
 ├── thane_flood_data.csv  
